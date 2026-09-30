@@ -2,13 +2,13 @@
 layout: page
 title: "Street vending enforcement in New York City"
 description: "Who governs informality? The uneven geography of street vending enforcement across New York City."
-img: assets/img/projects/sf-ordinance.jpg
+img: assets/img/projects/nyc-plot.jpg
 importance: 2
 ---
 
 <div class="row justify-content-sm-center mb-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/sf-ordinance.jpg" title="Street vending enforcement in New York City" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/nyc-plot.jpg" title="Street vending enforcement in New York City" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
