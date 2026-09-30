@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: My research is organized in three interconnected areas, governance and informality, food, and methods, which inform and build upon one another.
-nav: false
+nav: true
 nav_order: 1
 display_categories: ["governance and informality", "food", "methods"]
 horizontal: false
