@@ -2,13 +2,13 @@
 layout: page
 title: "Bureaucracies and political intermediation in Latin American cities"
 description: "How large cities shape the bureaucracies that govern them, compared across Mexico City, São Paulo, and beyond."
-img: assets/img/projects/food-environment.jpg
+img: assets/img/projects/police.jpg
 importance: 3
 ---
 
 <div class="row justify-content-sm-center mb-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/food-environment.jpg" title="Bureaucracies and political intermediation in Latin American cities" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/police.jpg" title="Bureaucracies and political intermediation in Latin American cities" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

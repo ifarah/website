@@ -2,13 +2,13 @@
 layout: page
 title: "The Scramble for the City"
 description: "Book manuscript. Fragmented authority and the struggle for public space in Mexico City."
-img: assets/img/projects/street-vending-associations.jpg
+img: assets/img/projects/calle.jpg
 importance: 1
 ---
 
 <div class="row justify-content-sm-center mb-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/street-vending-associations.jpg" title="The Scramble for the City" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/calle.jpg" title="The Scramble for the City" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
