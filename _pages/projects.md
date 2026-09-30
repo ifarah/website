@@ -7,6 +7,15 @@ nav_order: 1
 horizontal: false
 ---
 
+<style>
+  .projects .card-img-top {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
