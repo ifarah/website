@@ -19,8 +19,8 @@ profile:
       <a href="https://scholar.google.com/citations?user=a_nZ89EAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -46,3 +46,6 @@ Before my doctoral studies, I worked at the [Center for Spatial Data Science](ht
 
 **Download my [CV]({{ '/assets/pdf/Farah_CV.pdf' | relative_url }})**
 
+## [Selected publications](/publications/)
+
+{% include selected_papers.liquid %}
