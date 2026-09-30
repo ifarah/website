@@ -14,7 +14,7 @@ profile:
     <p>University of Illinois Urbana-Champaign</p>
     <p style="font-size: 1.6rem; margin-top: 0.75rem;">
       <a href="mailto:irenef@illinois.edu" title="Email"><i class="fa-solid fa-envelope"></i></a>&nbsp;
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
+      <a href="https://www.linkedin.com/in/imfarah" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
       <a href="https://github.com/ifarah" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>&nbsp;
       <a href="https://scholar.google.com/citations?user=a_nZ89EAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     </p>
