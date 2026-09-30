@@ -33,7 +33,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champaign (UIUC) [Department of Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/), with an appointment at the National Center for Supercomputing Applications (NCSA). My research bridges political science and urban planning, examining how political relationships across levels of government and the organizational networks that mediate them shape urban governance, resource allocation, and the management of informal processes in cities.
+Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champaign (UIUC) [Department of Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/), with an appointment at the [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/). My research bridges political science and urban planning, examining how political relationships across levels of government and the organizational networks that mediate them shape urban governance, resource allocation, and the management of informal processes in cities.
 
 Through comparative research in Mexico City and San Francisco, I study how political intermediation and bureaucratic coordination shape the governance of informal urban processes, revealing the durability or fragility of governance patterns across regime transitions and institutional reforms. My work combines qualitative interviews with computational spatial analysis, including location-based services data, satellite imagery, and spatial econometrics.
 
