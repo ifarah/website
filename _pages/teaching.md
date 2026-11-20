@@ -8,9 +8,9 @@ nav_order: 2
 ---
 
 ### University of Illinois Urbana-Champaign
-
+- **Urban Informatics I**, _Spring 2027_
 - **Research Design and Methods**, _Fall 2026_
-- **[Introduction to Urban Data Science](https://docs.google.com/document/d/17YMUziU0wz60LBwl5tZ0Q7Cs1PE464q1/edit)**, _Spring 2026_
+- **[Introduction to Urban Data Science](https://docs.google.com/document/d/17YMUziU0wz60LBwl5tZ0Q7Cs1PE464q1/edit)**, _Spring 2026, 2027_
 - **Cities: Planning and Urban Life**, _Fall 2025, 2026_
 
 ### University of California, Berkeley
